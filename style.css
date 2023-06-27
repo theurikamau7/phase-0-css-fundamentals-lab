@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+figure {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 12px;
+}
+
+nav {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+nav a {
+  padding: 10px;
+  background: grey;
+}
+
+
+section#featured-property p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+div {
+  float: left;
+  width: 25%;
+  background: red;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
